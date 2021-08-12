@@ -1,6 +1,6 @@
 # Bin2Dec
 
-### Treinando habilidades, essa conversor foi retirado do GITHUB app-ideas
+### Treinando habilidades, esse conversor foi retirado do GITHUB app-ideas
 
 Binário é o sistema numérico no qual todos os computadores digitais são baseados.
 Portanto, é importante que os desenvolvedores entendam o binário, ou base 2,
